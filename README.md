@@ -5,7 +5,6 @@ This repository consists of the following R scripts:
 ## Meta Scripts
 - `tracking_packages.R` (installs relevant packages, called in various scripts)
 - `scrape_forums.R` (was used to compile part of the dictionary (scraping the top forums in Germany) for the automated filtering of URLs for politically relevant topics)
-- `deliberation_add_variables.R` (constructs scales - knowledge, efficacy and extremism - using item analyses and EFA to enrich survey data)
 
 ## 1. Preprocessing
 `1_tracking_deliberation_preprocessing.R`
