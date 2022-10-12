@@ -1,4 +1,5 @@
-# Examining Online Deliberation with URL Tracking Data
+# Mapping the Deliberative Potential of a Political Online Ecosystem with Digital Trace Data
+https://osf.io/preprints/socarxiv/68udg/
 
 This repository consists of the following R scripts:
 
